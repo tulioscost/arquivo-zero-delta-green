@@ -1,0 +1,8 @@
+.az-document { font-family: "IBM Plex Sans", Arial, sans-serif; color: var(--color-text-primary, #d9d8cc); max-width: 68rem; line-height: 1.55; }
+.az-document h1,.az-document h2,.az-document h3 { font-family: "Arial Narrow", Impact, sans-serif; font-stretch: condensed; line-height: 1.16; text-transform: uppercase; letter-spacing: .02em; border-bottom: 2px solid #b3483f; padding-bottom: .28em; margin-top: 1.4em; }
+.az-document h1 { font-size: 2em; color:#b3483f; }.az-document h2 { color:#b3483f; }.az-document h3 { border-color:#46524b; }
+.az-document table {border-collapse:collapse;max-width:100%; width:100%; margin: .8em 0;} .az-document th { background:#26332d;color:#f0f1eb; } .az-document td,.az-document th { border:1px solid #77877b;padding:.35rem .5rem;vertical-align:top; }
+.az-document blockquote { padding:.7em 1em; border-left:5px solid #b3483f; background:rgba(70,82,75,.1); margin-left:0; }
+.az-document pre,.az-document code {font-family: "IBM Plex Mono", Consolas, monospace;white-space:pre-wrap;overflow-wrap:anywhere; } .az-document pre { padding:.7rem; background:rgba(38,51,45,.12); border:1px solid #46524b; }
+.az-document img {max-width:100%;height:auto;} .az-document hr {border:0;border-top:1px solid #46524b;margin:1.1rem 0;}
+.az-panel {font-family:Arial,sans-serif; line-height:1.5;min-width:360px}.az-panel h2 {font-family:Impact,"Arial Narrow",sans-serif;font-size:1.7rem;color:#b3483f}.az-panel .az-ident{font:12px Consolas,monospace;color:#9ab3a8}.az-panel .az-warning{padding:8px;border-left:3px solid #b3483f;background:rgba(179,72,63,.1)}
